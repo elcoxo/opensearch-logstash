@@ -102,7 +102,7 @@ sudo nano /lib/systemd/system/opensearch.service
 
 <details>
 
-<summary>Содержимое файла `opensearch.service`:</summary>
+<summary>Содержимое файла opensearch.service:</summary>
 
 ```conf
 [Unit]
